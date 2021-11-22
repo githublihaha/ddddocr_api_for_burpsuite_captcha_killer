@@ -6,7 +6,7 @@
 
 配好环境，安装依赖。
 
-clone项目，到app.py文件夹下。
+clone项目，到app.py所在的文件夹下。
 
 执行`flask run`命令，启动flask web服务。
 
